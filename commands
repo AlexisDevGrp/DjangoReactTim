@@ -1,0 +1,5 @@
+npm create vite@latest frontend -- --template react
+npm install axios react-router-dom jwt-decode
+
+
+https://github.com/techwithtim/Django-React-Full-Stack-App/blob/main/backend/.choreo/endpoints.yaml
